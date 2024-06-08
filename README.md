@@ -12,7 +12,6 @@ This repository contains the exploratory data analysis (EDA) of the UK Railway s
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
-- [Contact](#contact)
 
 ## Introduction
 
