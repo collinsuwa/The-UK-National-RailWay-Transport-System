@@ -16,7 +16,7 @@ This repository contains the exploratory data analysis (EDA) of the UK Railway s
 
 ## Introduction
 
-The UK Railway system serves millions of passengers daily, making it essential to understand travel patterns, optimize operations, and enhance passenger experience. This analysis covers data from December 8, 2023, to April 30, 2024, using Google BigQuery for data warehousing, dbt Cloud for data transformation, and Power BI for data visualization.
+The UK Railway system serves millions of passengers daily, making it essential to understand travel patterns, optimize operations, and enhance passenger experience. This analysis covers data from December 8, 2023, to April 30, 2024, using Power BI for data transformation and data visualization.
 
 ## Objectives
 
@@ -28,15 +28,24 @@ The UK Railway system serves millions of passengers daily, making it essential t
 ## Dataset
 
 The dataset includes information such as:
-- `total_revenue`
-- `total_tickets_sold`
-- `refund_requests`
-- `stations`
-- `ticket_types`
-- `class_types`
-- `payment_methods`
-- `travel_times`
-- `trip_status`
+- `Transaction ID`
+- `Date of Purchase`
+- `Time of Purchase`
+- `Purchase Type`
+- `Payment Method`
+- `Railcard`
+- `Ticket Class`
+- `Ticket Type`
+- `Price`
+- `Departure Station`
+- `Arrival Destination`
+- `Date of Journey`
+- `Departure Time`
+- `Arrival Time`
+- `Actual Arrival Time`
+- `Journey Status`
+- `Reason for Delay`
+- `Refund Request`
 
 ## Analysis Process
 
