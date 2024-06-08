@@ -49,9 +49,9 @@ The dataset includes information such as:
 
 ## Analysis Process
 
-1. **Data Ingestion**: Load raw data into Google BigQuery.
-2. **Data Transformation**: Clean, transform, and model the data using dbt Cloud.
-3. **Data Visualization**: Create interactive dashboards and reports in Power BI to uncover insights.
+1. **Data Preprocessing**: Use Microsoft Excel to clean and preprocess the raw data, handling missing values, duplicates, and inconsistencies.
+2. **Data Visualization**: Use Power BI to create interactive dashboards and reports that provide insights into the data.
+
 
 ## Insights
 
@@ -97,6 +97,3 @@ Based on the insights gathered, here are some key recommendations for the UK rai
 
 By implementing these recommendations, UK train operators can address key challenges, meet evolving customer expectations, and drive sustainable growth and profitability in the train rides market.
 
-## Contact
-
-For any questions or feedback, please contact [your.email@example.com](mailto:your.email@example.com).
